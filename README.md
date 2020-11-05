@@ -2,6 +2,12 @@
 
 ## Current Cases
 
+| Graph    | Purpose of test                                             |
+| -------- | ----------------------------------------------------------- |
+| kruTest1 | General tree                                                |
+| kruTest2 | General tree                                                |
+| kruTest3 | Tree is already a MST / all edges come from a single vertex |
+
 ![First Graph](https://github.com/tomsarry/COMP251_A2_TestCases/blob/master/Kruskal's%20Algorithm/assets/Tree1.PNG?raw=true) ![First MST](https://github.com/tomsarry/COMP251_A2_TestCases/blob/master/Kruskal's%20Algorithm/assets/MST1.PNG?raw=true)
 
 Explanations can be found [here](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/).
