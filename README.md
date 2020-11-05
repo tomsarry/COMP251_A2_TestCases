@@ -2,11 +2,11 @@
 
 ## Current Cases
 
-![First Graph](https://github.com/tomsarry/COMP251_A2_TestCases/blob/master/Kruskal's%20Algorithm/Tree1.PNG?raw=true) ![First MST](https://github.com/tomsarry/COMP251_A2_TestCases/blob/master/Kruskal's%20Algorithm/MST1.PNG?raw=true)
+![First Graph](https://github.com/tomsarry/COMP251_A2_TestCases/blob/master/Kruskal's%20Algorithm/assets/Tree1.PNG?raw=true) ![First MST](https://github.com/tomsarry/COMP251_A2_TestCases/blob/master/Kruskal's%20Algorithm/assets/MST1.PNG?raw=true)
 
 Explanations can be found [here](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/).
 
-![Second Graph](https://github.com/tomsarry/COMP251_A2_TestCases/blob/master/Kruskal's%20Algorithm/Tree2.PNG?raw=true) ![Second MST](https://github.com/tomsarry/COMP251_A2_TestCases/blob/master/Kruskal's%20Algorithm/MST2.PNG?raw=true)
+![Second Graph](https://github.com/tomsarry/COMP251_A2_TestCases/blob/master/Kruskal's%20Algorithm/assets/Tree2.PNG?raw=true) ![Second MST](https://github.com/tomsarry/COMP251_A2_TestCases/blob/master/Kruskal's%20Algorithm/assets/MST2.PNG?raw=true)
 
 No explanation on website, had to derive the MST by myself.
 
