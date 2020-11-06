@@ -38,6 +38,21 @@ Test 3: PASS
 Expected: [0, 2, 1, 3]
 Your solution: [0, 2, 1, 3]
 
-You passed 3/3 tests!
+Test 4: PASS
+------------------------------
+Expected: [5, 6, 3, 0, 1, 7]
+Your solution: [5, 6, 3, 0, 1, 7]
+
+Test 5: PASS
+------------------------------
+Expected: [3, 5, 2, 4, 0, 7, 6]
+Your solution: [3, 5, 2, 4, 0, 7, 6]
+
+Test 6: PASS
+------------------------------
+Expected: [1]
+Your solution: [1]
+
+You passed 6/6 tests!
 N.B. Some test cases may have multiple solutions, so your solution (while valid) may not match the expected solution.
 ```
