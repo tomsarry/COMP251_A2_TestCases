@@ -26,7 +26,7 @@ public class Greedy_Tester {
                 resSum += Math.max(weights[i][res[j]], 0);
             }
             String feedback;
-            if (resString.equals(ansString) || resSum == expectedSum[i]) {
+            if (resSum == expectedSum[i]) {
                 feedback = "PASS";
                 tally++;
             } else {
