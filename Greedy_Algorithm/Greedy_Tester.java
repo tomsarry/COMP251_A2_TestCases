@@ -15,7 +15,7 @@ public class Greedy_Tester {
         // Where there are multiple possible solutions, the total weight of the
         // completed homework assignments is used to verify the validity of your greedy
         // algorithm. Please updated expectedSum if you add more tests:
-        int[] expectedSum = new int[] { 97, 6, 10, 300, 55, 12 };
+        int[] expectedSum = new int[] { 97, 6, 10, 300, 63, 12 };
 
         for (int i = 0; i < expected.length; i++) {
             HW_Sched schedule = new HW_Sched(weights[i], deadlines[i], weights[i].length);
