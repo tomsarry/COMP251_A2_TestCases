@@ -80,3 +80,9 @@ N.B. Some test cases may have multiple solutions, so your solution (while valid)
 ## Contribute
 
 Feel free to fork the repository and add more test cases.
+
+### To do
+
+[ ] Test cases for Question 1 : Disjoint Sets
+
+[ ] Big test case for Question 3 : Greedy
