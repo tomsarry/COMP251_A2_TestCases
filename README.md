@@ -1,5 +1,25 @@
 # COMP 251 - Assignment 2 Test Cases
 
+## **IMPORTANT**
+
+- Even though we tried making the most appropriate testcases for this assignment, there still may be some errors in them, do not hesitate to point them out.
+
+- Having everything right in the following tests does not mean in any way that you will obtain 100% on the assignment.
+
+---
+
+## Contribute
+
+You are more than welcome to fork this repository and add more test cases.
+
+### To do's
+
+[ ] Test cases for Question 1 : Disjoint Sets
+
+[ ] Big test case for Question 3 : Greedy
+
+---
+
 ## Question 2 : _Kruskal's Algoritm_
 
 | Graph    | Purpose of test                                             |
@@ -16,7 +36,9 @@ Explanations can be found [here](https://www.geeksforgeeks.org/kruskals-minimum-
 
 No explanation on website, had to derive the MST by myself.
 
-_**Note:** Second tree has two solutions for the last edge -> I added 2 different result files to account for this, if you result if any of these, you should be fine._
+_**Note:** Second tree has two solutions for the last edge -> I added 2 different result files to account for this, if you result is any of these, you should be fine._
+
+---
 
 ## Question 3 : _Greedy Algorithm_
 
@@ -76,13 +98,3 @@ Your solution: [1]
 You passed 6/6 tests!
 N.B. Some test cases may have multiple solutions, so your solution (while valid) may not match the expected solution.
 ```
-
-## Contribute
-
-Feel free to fork the repository and add more test cases.
-
-### To do
-
-[ ] Test cases for Question 1 : Disjoint Sets
-
-[ ] Big test case for Question 3 : Greedy
