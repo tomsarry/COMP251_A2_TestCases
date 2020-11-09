@@ -16,7 +16,7 @@ You are more than welcome to fork this repository and add more test cases.
 
 [ ] Test cases for Question 1 : Disjoint Sets
 
-[ ] Add case where student has time to complete all assignments + leftover time
+[X] Add case where student has time to complete all assignments + leftover time
 
 [ ] Big test case for Question 3 : Greedy
 
