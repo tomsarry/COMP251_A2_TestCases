@@ -14,11 +14,55 @@ You are more than welcome to fork this repository and add more test cases.
 
 ### To do's
 
-[ ] Test cases for Question 1 : Disjoint Sets
+[X] Test cases for Question 1 : Disjoint Sets
 
 [X] Add case where student has time to complete all assignments + leftover time
 
 [ ] Big test case for Question 3 : Greedy
+
+---
+
+## Question 1 : _Disjoint Sets_
+
+### Running tests
+
+You must compile `DisjointSets_Tester.java` along with your solution to the algorithm.
+
+```b
+$ javac DisjointSets_Tester.java
+$ java DisjointSets_Tester
+```
+
+### Sample output could look like:
+
+```
+Achieved score : 1,00 / 1,00 (Union of singletons)
+Achieved score : 0,50 / 0,50 (Union of same set elements)
+Achieved score : 1,00 / 1,00 (Check representative)
+Achieved score : 0,50 / 0,50 (Union of same set elements - 2)
+Achieved score : 1,00 / 1,00 (Multiple unions)
+Achieved score : 1,00 / 1,00 (Multiple unions - 2)
+Total Score : 5,00 / 5,00
+```
+
+### Tips
+
+- At any point of the tester, you can see the different sets with
+
+```java
+System.out.println(ds);
+```
+
+- I implemented a helper function to obtain the rank of a node in `DijsointSets.java` to make sure it was working.
+
+```java
+@SuppressWarnings("unused")
+public int getRank(int i) {
+    return rank[i];
+}
+```
+
+**_NOTE:_ You should remove this helper function before submitting, I don't know if you're allowed to create one, so delete it just to make sure !**
 
 ---
 
